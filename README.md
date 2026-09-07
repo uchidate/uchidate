@@ -1,20 +1,31 @@
-### Hi there 👋
+## Fabio Uchidate
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/uchidate/)](https://www.linkedin.com/in/uchidate/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/uchidate)](https://twitter.com/uchidate)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:fabiouchidate@gmail.com)](mailto:fabiouchidate@gmail.com)
+Desenvolvedor full-stack com foco em produtos de conteúdo para a web — da interface ao
+pipeline de dados que a alimenta, passando pela infraestrutura que sustenta os dois.
 
-<!--
-**uchidate/uchidate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend**
+Next.js (App Router, SSG/ISR), React, TypeScript, Tailwind. Interfaces orientadas a
+performance e SEO técnico — Core Web Vitals, dados estruturados, sitemaps e indexação.
 
-Here are some ideas to get you started:
+**Backend e dados**
+Python e Node.js. APIs REST, integração com CMS headless, WordPress (temas, plugins,
+REST API, WP-CLI). PostgreSQL, MySQL e SQLite. Pipelines de coleta, enriquecimento e
+publicação automatizada de conteúdo, incluindo uso de LLMs locais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Infraestrutura e automação**
+Docker e Docker Compose, CI/CD com GitHub Actions (runners self-hosted inclusive),
+deploys com Coolify, observabilidade com Sentry. Automação de rotinas com n8n e cron.
+
+**Qualidade e segurança**
+Testes com Vitest e Playwright, ESLint e TypeScript estrito. Análise estática e de
+segredos no pipeline (Semgrep, Gitleaks, Trivy). Formação em Defesa Cibernética,
+com atuação em prevenção a fraudes e golpes digitais.
+
+---
+
+`TypeScript` · `JavaScript` · `Python` · `PHP` · `SQL` · `Bash`
+`Next.js` · `React` · `Node.js` · `WordPress` · `Docker` · `PostgreSQL` · `MySQL` · `Git`
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/uchidate/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/uchidate)
+[![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:fabiouchidate@gmail.com)
