@@ -1,6 +1,6 @@
 ## Fabio Uchidate
 
-Desenvolvedor full-stack. Trabalho com web, dados e automação.
+Desenvolvedor. Trabalho com web, dados e automação.
 
 `TypeScript` · `Python` · `Next.js` · `WordPress` · `Docker`
 
